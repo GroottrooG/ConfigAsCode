@@ -1,0 +1,10 @@
+---
+name: "xyz"
+spring:
+  dataSource: "mongodb"
+  URI:
+    anyTest: "test"
+    gvhgv: 7675
+key:
+  lkjkfskj: 64747
+hello: 4534

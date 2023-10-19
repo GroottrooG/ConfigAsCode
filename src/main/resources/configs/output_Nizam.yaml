@@ -1,0 +1,9 @@
+---
+name: "Nizam"
+spring:
+  dataSource: "mongodb"
+  URI:
+    anyTest: "test"
+    gvhgv: 7675
+key: 32423
+hello: 4534
